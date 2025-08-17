@@ -21,8 +21,7 @@ A modern Flutter application that combines calendar scheduling with intelligent 
 - **Intl** - Date formatting
 
 ## 📸 Screenshots
-
-[Add your app screenshots here]
+<img width="1920" height="1080" alt="Purple Pink Gradient Mobile Application Presentation" src="https://github.com/user-attachments/assets/99947f40-7866-4180-92cd-1031565cd298" />
 
 ## 🚀 Getting Started
 
@@ -98,7 +97,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@yourusername](https://github.com/mohamedyounis10/)
 
 ## 🙏 Acknowledgments
 
