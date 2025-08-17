@@ -96,7 +96,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Mohamed Younis**
 - GitHub: [@yourusername](https://github.com/mohamedyounis10/)
 
 ## 🙏 Acknowledgments
