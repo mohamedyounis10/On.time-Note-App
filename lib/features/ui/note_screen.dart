@@ -87,7 +87,6 @@ class NoteScreen extends StatelessWidget {
                         SizedBox(width: 48),
                       ],
                     ),
-                    SizedBox(height: 20),
 
                     // Items
                     Expanded(
@@ -114,7 +113,7 @@ class NoteScreen extends StatelessWidget {
                                   ),
                                 ),
                               ),
-                              SizedBox(height: 15.h),
+                              SizedBox(height: 5.h),
 
                               // Calendar
                               TableCalendar(
@@ -164,7 +163,7 @@ class NoteScreen extends StatelessWidget {
                                   selectedTextStyle: AppColor.whiteText,
                                 ),
                               ),
-                              SizedBox(height: 15.h),
+                              SizedBox(height: 5.h),
 
                               // Add Button
                               SizedBox(
