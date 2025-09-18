@@ -23,6 +23,9 @@ A modern Flutter application that combines calendar scheduling with intelligent 
 ## 📸 Screenshots
 <img width="1920" height="1080" alt="Purple Pink Gradient Mobile Application Presentation" src="https://github.com/user-attachments/assets/99947f40-7866-4180-92cd-1031565cd298" />
 
+## 🎥 Live Demo
+[🎥 Watch Demo Video](https://github.com/user-attachments/assets/4393492a-e6ed-47c5-bec7-b7f9785c0e0d)
+
 ## 🚀 Getting Started
 
 ### Prerequisites
